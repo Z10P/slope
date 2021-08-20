@@ -4,9 +4,9 @@ A clone of the original slope game by Y8. Ads have been blocked to give you a be
 This project was started by 3kh0 and was improved for a better playing expericance by Rockpods. <3
 
 # Host Your Own Version
-<a href="https://repl.it/github/rockpods/slope" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://raw.githubusercontent.com/Rockpods/slope/main/assets/replit.svg" width="140" height="30"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/rockpods/slope" title="Host on Glitch"><img alt="Host on glitch" src="https://raw.githubusercontent.com/Rockpods/slope/main/assets/glitch.svg" width="140" height="30"><img></a>
-<a href="https://heroku.com/deploy?template=https://github.com/rockpods/slope" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/Rockpods/slope/main/assets/heroku.svg" width="140" height="30"><img></a>
+<a href="https://repl.it/github/3kh0/slope" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://raw.githubusercontent.com/3kh0/slope/main/assets/replit.svg" width="140" height="30"><img></a>
+<a href="https://glitch.com/edit/#!/import/github/3kh0/slope" title="Host on Glitch"><img alt="Host on glitch" src="https://raw.githubusercontent.com/3kh0/slope/main/assets/glitch.svg" width="140" height="30"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/3kh0/slope" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/3kh0/slope/main/assets/heroku.svg" width="140" height="30"><img></a>
 
 
 # Other
