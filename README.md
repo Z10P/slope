@@ -1,6 +1,7 @@
 # Slope
 A clone of the original slope game by Y8. Ads have been blocked to give you a better playing experience. Support for many free hosting sites out of the box including github pages, relp.it, and glitch.me. 
 
+This project was started by 3kh0 and was improved for a better playing expericance by Rockpods. <3
 
 # Host Your Own Version
 <a href="https://repl.it/github/rockpods/slope" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://raw.githubusercontent.com/Rockpods/slope/main/assets/replit.svg" width="140" height="30"><img></a>
@@ -9,7 +10,7 @@ A clone of the original slope game by Y8. Ads have been blocked to give you a be
 
 
 # Other
-Please create an issue if you have any problems
+Please create an issue if you have any problems!
 
 
 # Changelog
