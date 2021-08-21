@@ -1,0 +1,8 @@
+body { 
+  background-image: linear-gradient(to bottom right, red, blue);
+  background-repeat: no-repeat;
+  width: 100%;
+  length: 100%;
+  background-size:full;
+  background-attachment: fixed;
+}
