@@ -15,6 +15,9 @@ Please create an issue if you have any problems!
 
 # Changelog
 <<<<<<< main
+=======
+<<<<<<< main
+>>>>>>> main
 1. Made it much easier to deploy
 2. Fixed bug where if you were to deploy in a folder called anything but slope it would not deploy
 3. Made favicon local so it will still show up if the favicon hosting site is blocked
@@ -22,6 +25,9 @@ Please create an issue if you have any problems!
 5. Added background styling
 
 # To-Do
+<<<<<<< main
+1. Add a light/dark mode switch
+=======
 1. Add a light/dark mode switch
 =======
 1. Blocked Ads
@@ -30,3 +36,5 @@ Please create an issue if you have any problems!
 4. Made favicon local so it will still show up if the favicon hosting site is blocked
 5. Fixed Credits
 >>>>>>> main
+>>>>>>> main
+
