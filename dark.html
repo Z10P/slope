@@ -24,8 +24,14 @@
   <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "./y8-studio/unity/joll/Build/slope_27Sept.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
     </script><link rel="canonical" href="https://www.y8.com/games/slope">
+
+<style>
+#dark {
+  background-color: "#23272a";
+  }
+</style>
 </head>
-  <body>
+  <body id="dark">
     <div id="container" class="container webgl-content">
       <div id="gameContainer" style="width: 900px; height: 600px"></div>
       <div class="footer">
